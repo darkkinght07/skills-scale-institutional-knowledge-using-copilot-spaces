@@ -75,6 +75,78 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
+## Scrum Master
+
+### Role Summary
+Facilitates agile and scrum ceremonies, removes obstacles, and helps the team continuously improve. Ensures scrum practices are followed and coaches the team on agile principles.
+
+### Responsibilities
+- Organize and run daily standups, sprint planning, reviews, and retrospectives
+- Identify and address blockers, escalating to Project Managers as needed
+- Foster continuous improvement through retrospectives and data-driven review
+- Coach the team on agile principles and scrum practices
+- Shield the team from external interruptions during sprints
+
+### Goals
+- Enable team efficiency and improve delivery velocity
+- Foster psychological safety and a culture of continuous improvement
+- Ensure scrum ceremonies are effective and time-boxed
+
+### Typical Communication
+- Daily standups and sprint ceremonies
+- Blocker escalations to Project Managers and stakeholders
+- Retrospective action items and improvement tracking
+
+---
+
+## UX Designer
+
+### Role Summary
+Advocates for user-centric design and ensures solutions are usable, visually appealing, and meet user needs through research and iterative prototyping.
+
+### Responsibilities
+- Conduct user research and usability testing to validate design decisions
+- Create wireframes, mockups, and interactive prototypes
+- Collaborate with Product Managers to refine and validate user stories
+- Ensure design intent is communicated clearly to Developers during implementation
+- Maintain and evolve the design system and style guidelines
+
+### Goals
+- Deliver intuitive, user-friendly solutions that improve adoption and satisfaction
+- Reduce rework by validating designs with users before development begins
+- Ensure consistency across product surfaces through shared design standards
+
+### Typical Communication
+- Design reviews and prototype walkthroughs with Product Managers and Developers
+- Usability test findings and recommendations
+- Annotated wireframes and design specs shared with engineering
+
+---
+
+## Business Analyst
+
+### Role Summary
+Translates business requirements into actionable technical specifications, clarifies ambiguity, and validates delivered functionality against business objectives.
+
+### Responsibilities
+- Gather and document detailed business requirements from stakeholders
+- Map workflows and identify process improvement opportunities
+- Validate that delivered solutions align with business goals and acceptance criteria
+- Act as a liaison between stakeholders, Product Managers, and Developers to bridge gaps
+- Facilitate requirements workshops and ensure shared understanding across the team
+
+### Goals
+- Ensure alignment between business goals and delivered software
+- Reduce rework and ambiguity by producing clear, agreed-upon specifications
+- Improve delivery clarity by documenting requirements and edge cases early
+
+### Typical Communication
+- Requirements workshops and stakeholder interviews
+- Business requirements documents and process flow diagrams
+- Validation sign-offs and change request tracking with Project Managers
+
+---
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
